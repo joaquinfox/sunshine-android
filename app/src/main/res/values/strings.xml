@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">S01.01.WC</string>
+    <string name="app_name">Demonstrating a text extraction</string>
+    <string name="firstString" >
+
+This is a different string variable in a separate TextView ...</string>
+    <string name="secondString">
+        <b>This text is stored as an XML variable in res/values.</b>
+    </string>
 </resources>
